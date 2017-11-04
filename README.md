@@ -1,6 +1,8 @@
 
 <div align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/en/archive/4/4c/20140526092805%21Flag_of_Sweden.svg" width="350px" alt="Awesome Sweden">
+	<br>
+	<br>
 </div>
 
 # `awesome-sweden` [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
