@@ -45,6 +45,7 @@
 - [Nordic.js](http://nordicjs.com/) - JavaScript conference in Stockholm.
 - [TechDays](http://tdswe.se/) - Tech conference by Microsoft in Stockholm.
 - [Nordic.design](http://nordic.design/) - Conference in Stockholm with focus on UX, UI, design tools, workflows and more.
+- [Swetugg](https://swetugg.se/) - Two-day conference in Stockholm with everything a .NET developer needs.
 
 
 ## Travel tips
