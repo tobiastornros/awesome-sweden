@@ -38,7 +38,7 @@
 - [Vuejs Stockholm Meetup](https://www.meetup.com/Vuejs-Stockholm-Meetup/) - Vuejs Stockholm Meetup is a group of Vuejs developer enthusiasts. 
 
 ### Sundsvall
- - [Lounge Hackers](https://www.meetup.com/Sundsvall-Lounge-Hackers/) - A group of people meeting every week to hack together and share thoughts on programming and other related things.
+ - [Sundsvall Lounge Hackers](https://www.meetup.com/Sundsvall-Lounge-Hackers/) - A group of people meeting every wednesday to hack together and share thoughts on programming and other related things.
  - [Sundsvall Lean Coffee](https://www.meetup.com/Sundsvall-Lean-Coffee/) - Once a month meetup to talk about lean and agile methodologies.
 
 ### Gothenburg
