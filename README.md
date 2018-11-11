@@ -18,6 +18,7 @@
 	- [Stockholm](#stockholm)
 	- [Sundsvall](#sundsvall)
 	- [Gothenburg](#gothenburg)
+- [Slack communities](#slack-communities)
 - [Conferences](#conferences)
 - [Travel tips](#travel-tips)
 
@@ -43,7 +44,8 @@
 - [Gothenburg Tech Radar](https://www.meetup.com/Gothenburg-Tech-Radar/) - Presentations and open discussions about the latest software, technology and methodologies.
 - [AngularJS Gothenburg](https://www.meetup.com/AngularJS-Gothenburg/) - AngularJS meetup in Gothenburg.
 
-
+## Slack communities
+- [SSDC - Sundsvall Software Developer Community](https://sundsvall-dev.slack.com/) - A Slack community for every developer based in Sundsvall.
 
 ## Conferences
 - [Nordic.js](http://nordicjs.com/) - JavaScript conference in Stockholm.
