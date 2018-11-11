@@ -16,6 +16,7 @@
 - [Articles](#articles)
 - [Meetups](#meetups)
 	- [Stockholm](#stockholm)
+	- [Sundsvall](#sundsvall)
 	- [Gothenburg](#gothenburg)
 - [Conferences](#conferences)
 - [Travel tips](#travel-tips)
@@ -34,6 +35,9 @@
 - [Swenug Stockholm](https://www.meetup.com/Swenug-Stockholm/) - Meetups in Stockholm by Sweden .net user group.
 - [Stockholm AngularJS](https://www.meetup.com/Stockholm-AngularJS/) - AngularJS meetup in Stockholm.
 - [Vuejs Stockholm Meetup](https://www.meetup.com/Vuejs-Stockholm-Meetup/) - Vuejs Stockholm Meetup is a group of Vuejs developer enthusiasts. 
+
+### Sundsvall
+ - [Lounge Hackers](https://www.meetup.com/Sundsvall-Lounge-Hackers/) - A group of people meeting every week to hack together and share thoughts on programming and other related things.
 
 ### Gothenburg
 - [Gothenburg Tech Radar](https://www.meetup.com/Gothenburg-Tech-Radar/) - Presentations and open discussions about the latest software, technology and methodologies.
