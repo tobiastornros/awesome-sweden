@@ -39,6 +39,7 @@
 
 ### Sundsvall
  - [Lounge Hackers](https://www.meetup.com/Sundsvall-Lounge-Hackers/) - A group of people meeting every week to hack together and share thoughts on programming and other related things.
+ - [Sundsvall Lean Coffee](https://www.meetup.com/Sundsvall-Lean-Coffee/) - Once a month meetup to talk about lean and agile methodologies.
 
 ### Gothenburg
 - [Gothenburg Tech Radar](https://www.meetup.com/Gothenburg-Tech-Radar/) - Presentations and open discussions about the latest software, technology and methodologies.
