@@ -29,6 +29,7 @@
 ## Meetups
 
 ### Stockholm
+- [Stockholm Weekend Fika Group](https://www.meetup.com/Stockholm-Weekend-Fika-Group/) - This is a group for people who enjoy the Swedish (and Scandinavian) tradition of fika on weekends.  
 - [sthlm.js - Stockholm JavaScript User Group](https://www.meetup.com/sthlm-js/) - Sthlm.js is a meetup with over 3000 members founded 2011 with talks about JavaScript.
 - [Stockholm ReactJS meetup](https://www.meetup.com/Stockholm-ReactJS-Meetup/) - A group for people interested in talking about, learning more about and developing React applications together.
 - [SUP46 - Start-up Prople of Sweden](https://www.meetup.com/SUP46-Start-Up-People-of-Sweden/) - Meetup group to host events at SUP46 in Stockholm.
