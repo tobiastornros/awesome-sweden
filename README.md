@@ -36,7 +36,8 @@
 - [Stockholm Creative People Meetups](https://www.meetup.com/Stockholm-Creative-People-Meetup/) - Meetup group for the creative people of Stockholm who are looking for companionship of other creatives.
 - [Swenug Stockholm](https://www.meetup.com/Swenug-Stockholm/) - Meetups in Stockholm by Sweden .net user group.
 - [Stockholm AngularJS](https://www.meetup.com/Stockholm-AngularJS/) - AngularJS meetup in Stockholm.
-- [Vuejs Stockholm Meetup](https://www.meetup.com/Vuejs-Stockholm-Meetup/) - Vuejs Stockholm Meetup is a group of Vuejs developer enthusiasts. 
+- [Vuejs Stockholm Meetup](https://www.meetup.com/Vuejs-Stockholm-Meetup/) - Vuejs Stockholm Meetup is a group of Vuejs developer enthusiasts.
+- [CocoaHeads Stockholm](https://www.meetup.com/CocoaHeads-Stockholm/) - Meetups for people interested in iOS & Mac development.
 
 ### Sundsvall
  - [Sundsvall Lounge Hackers](https://www.meetup.com/Sundsvall-Lounge-Hackers/) - A group of people meeting every wednesday to hack together and share thoughts on programming and other related things.
