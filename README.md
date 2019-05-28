@@ -38,6 +38,7 @@
 - [Stockholm AngularJS](https://www.meetup.com/Stockholm-AngularJS/) - AngularJS meetup in Stockholm.
 - [Vuejs Stockholm Meetup](https://www.meetup.com/Vuejs-Stockholm-Meetup/) - Vuejs Stockholm Meetup is a group of Vuejs developer enthusiasts.
 - [CocoaHeads Stockholm](https://www.meetup.com/CocoaHeads-Stockholm/) - Meetups for people interested in iOS & Mac development.
+- [Stockholm AWS Meetup](https://www.meetup.com/aws-stockholm/) - The Stockholm AWS Users Group is for people interested in the Amazon Web Services.
 
 ### Sundsvall
  - [Sundsvall Lounge Hackers](https://www.meetup.com/Sundsvall-Lounge-Hackers/) - A group of people meeting every wednesday to hack together and share thoughts on programming and other related things.
