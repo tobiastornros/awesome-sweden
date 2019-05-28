@@ -56,6 +56,7 @@
 - [TechDays](http://tdswe.se/) - Tech conference by Microsoft in Stockholm.
 - [Nordic.design](http://nordic.design/) - Conference in Stockholm with focus on UX, UI, design tools, workflows and more.
 - [Swetugg](https://swetugg.se/) - Two-day conference in Stockholm with everything a .NET developer needs.
+- [Swetugg](http://oredev.org/) - Three-day developer conference in Malmö with a chill and diverse attitude.
 
 
 ## Travel tips
