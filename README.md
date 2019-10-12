@@ -40,6 +40,9 @@
 - [CocoaHeads Stockholm](https://www.meetup.com/CocoaHeads-Stockholm/) - Meetups for people interested in iOS & Mac development.
 - [Stockholm AWS Meetup](https://www.meetup.com/aws-stockholm/) - The Stockholm AWS Users Group is for people interested in the Amazon Web Services.
 
+### Uppsala
+- [Uppsala.js](https://www.meetup.com/Uppsalajs/) - Active meetup for JS interested people in Uppsala.
+
 ### Sundsvall
  - [Sundsvall Lounge Hackers](https://www.meetup.com/Sundsvall-Lounge-Hackers/) - A group of people meeting every wednesday to hack together and share thoughts on programming and other related things.
  - [Sundsvall Lean Coffee](https://www.meetup.com/Sundsvall-Lean-Coffee/) - Once a month meetup to talk about lean and agile methodologies.
