@@ -16,6 +16,7 @@
 - [Articles](#articles)
 - [Meetups](#meetups)
 	- [Stockholm](#stockholm)
+	- [Uppsala](#uppsala)
 	- [Sundsvall](#sundsvall)
 	- [Gothenburg](#gothenburg)
 - [Slack communities](#slack-communities)
